@@ -1,0 +1,6 @@
+{
+  "name": "Color Palette AI",
+  "description": "AI-powered personal color analysis based on your facial features and skin tone.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
